@@ -1,11 +1,7 @@
 **NAME**- M Sree Balaji
-
 **COMPANY**- CODTECH IT SOLUTIONS
-
 **ID**- CT6WTDS309
-
 **DOMAIN**- Python Programming
-
 **DURATION**- JULY TO AUGUST 2024
 
 **OVERVIEW OF THE PROJECT**
@@ -23,7 +19,7 @@ Create a basic calculator in Python to perform simple arithmetic operations such
 
 **Activities:**
 
-1.**Display Menu:** Show options for arithmetic operations and exit.
+1. **Display Menu:** Show options for arithmetic operations and exit.
 2. **User Input:** Take user selection and numbers for calculations.
 3. **Perform Calculation:** Execute the chosen operation and display the result.
 4. **Repeat or Exit:** Allow users to perform multiple calculations or exit the program.
