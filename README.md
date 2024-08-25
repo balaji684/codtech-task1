@@ -1,7 +1,11 @@
 **NAME**- M Sree Balaji
+
 **COMPANY**- CODTECH IT SOLUTIONS
+
 **ID**- CT6WTDS309
+
 **DOMAIN**- Python Programming
+
 **DURATION**- JULY TO AUGUST 2024
 
 **OVERVIEW OF THE PROJECT**
